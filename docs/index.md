@@ -17,7 +17,7 @@ Use the buttons below to see the course  tasks, exercises, assignments, and fina
 
 <div class="button-container">
   <a href="tasks" class="btn btn--primary">View Tasks</a>
-  <a href="/gunneson5880-2026/exercises/" class="btn btn--primary">View Exercises</a>
-  <a href="/gunneson5880-2026/assignments/" class="btn btn--primary">View Assignments</a>
+  <a href="exercises" class="btn btn--primary">View Exercises</a>
+  <a href="assignments" class="btn btn--primary">View Assignments</a>
   <a href="/gunneson5880-2026/final-project/" class="btn btn--primary">View Final Project</a>
 </div>
