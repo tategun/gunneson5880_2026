@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Seeger - LA 5880"
+title: "Gunneson - LA 5880"
 header:
   overlay_image: /assets/images/cover.jpg
   overlay_filter: 0.3
