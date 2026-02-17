@@ -6,4 +6,4 @@ markdown: false
 
 
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-106.23178482055665%2C39.40701936950632%2C-105.90270996093751%2C39.557530079132086&amp;layer=mapnik&amp;marker=39.48231543921616%2C-106.06724739074707" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=39.48232&amp;mlon=-106.06725#map=13/39.48232/-106.06725">View Larger Map</a></small>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-94.41375732421875%2C41.70367796221136%2C-92.82760620117189%2C42.34535034292539&amp;layer=mapnik&amp;marker=42.025323683799215%2C-93.62068176269531" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=42.0253&amp;mlon=-93.6207#map=11/42.0253/-93.6207">View Larger Map</a></small>
