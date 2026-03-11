@@ -42,7 +42,7 @@ sidebar:
       - title: "Assignment 2"
         url: /assignments/assign2/
       - title: "Mid Semester Project"
-        url: /assignments/assign2/
+        url: /assignments/mid/
 
   - title: "Final Project"
     children:
