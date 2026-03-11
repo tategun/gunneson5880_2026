@@ -4,11 +4,6 @@ permalink: /assignments/assign2/
 markdown: false
 ---
 
----
-layout: single
-title: "Your Page Title"
----
-
 <div class='tableauPlaceholder' id='viz1773195007348' style='position: relative'>
   <noscript>
     <a href='#'>
