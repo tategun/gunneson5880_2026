@@ -34,10 +34,10 @@ markdown: false
 
   if (divElement.offsetWidth > 800) {
     vizElement.style.width  = "600px";
-    vizElement.style.height = "427px";
+    vizElement.style.height = "400px";
   } else if (divElement.offsetWidth > 500) {
     vizElement.style.width  = "600px";
-    vizElement.style.height = "427px";
+    vizElement.style.height = "400px";
   } else {
     vizElement.style.width  = "100%";
     vizElement.style.height = "977px";
