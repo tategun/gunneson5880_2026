@@ -4,7 +4,7 @@ permalink: /assignments/assign2/
 markdown: false
 ---
 
-<div class='tableauPlaceholder' id='viz1773195007348' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1773195007348' style='position: relative; width: 100%; overflow: hidden;'>
   <noscript>
     <a href='#'>
       <img alt='Dashboard 1'
