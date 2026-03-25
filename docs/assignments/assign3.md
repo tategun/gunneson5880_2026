@@ -32,15 +32,15 @@ markdown: false
   var divElement = document.getElementById("viz1773349742161");
   var vizElement = divElement.getElementsByTagName("object")[0];
 
-  if (divElement.offsetWidth > 800) {
+  if (divElement.offsetWidth > 600) {
     vizElement.style.width  = "600px";
     vizElement.style.height = "400px";
-  } else if (divElement.offsetWidth > 500) {
+  } else if (divElement.offsetWidth > 400) {
     vizElement.style.width  = "600px";
     vizElement.style.height = "400px";
   } else {
     vizElement.style.width  = "100%";
-    vizElement.style.height = "977px";
+    vizElement.style.height = "400px";
   }
 
   var scriptElement = document.createElement("script");
