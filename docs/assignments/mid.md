@@ -3,7 +3,7 @@ title: "Mid Semester project"
 permalink: /assignments/mid/
 ---
 
-For the mini project, I wanted to examine the average income per capita in Iowa from 2020 to 2024. The purpose behind this was to look at the economic differences between the start of COVID and the more current landscape. It is very interesting to see the economy attempt to stabilize over time.
+For the mini project, I wanted to examine the average income per capita in Iowa from 2020 to 2024. The purpose behind this was to look at the economic differences between the start of COVID and the current landscape.
 
 <div class='tableauPlaceholder' id='viz1778265377805' style='position: relative'>
   <noscript>
