@@ -3,9 +3,9 @@ title: "Final Project Proposal"
 permalink: /final-project/proposal/
 ---
 
-**Tate Gunneson 4/2/2026**
-
 # Is Education Everything?
+
+**Tate Gunneson 4/2/2026**
 
 ## Abstract
 This project looks into the relationship between education, income, and employment using 2024 American Community Survey (ACS) data. This project explores if higher levels of education directly correlate with higher income and employment. By directly comparing these different data points, this project hopes to evaluate if education impacts economic stability and career in the modern landscape.
