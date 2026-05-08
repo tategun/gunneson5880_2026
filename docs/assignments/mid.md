@@ -3,7 +3,7 @@ title: "Mid Semester project"
 permalink: /assignments/mid/
 ---
 
-Mid Semester Project description
+For the mini project, I wanted to examine the average income per capita in Iowa from 2020 to 2024. The purpose behind this was to look at the economic differences between the start of COVID and the more current landscape. It is very interesting to see the economy attempt to stabilize over time.
 
 <div class='tableauPlaceholder' id='viz1778265377805' style='position: relative'>
   <noscript>
@@ -33,8 +33,8 @@ Mid Semester Project description
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1778265377805');
   var vizElement = divElement.getElementsByTagName('object')[0];
-  vizElement.style.width = '100%';
-  vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+  vizElement.style.width = '650px';
+  vizElement.style.height = '677px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
