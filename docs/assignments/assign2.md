@@ -4,12 +4,12 @@ permalink: /assignments/assign2/
 markdown: false
 ---
 
-<div class='tableauPlaceholder' id='viz1773195007348' style='position: relative; width: 100%; overflow: hidden;'>
+<div class='tableauPlaceholder' id='viz1778266140576' style='position: relative'>
   <noscript>
     <a href='#'>
       <img alt='Dashboard 1'
-        src='https://public.tableau.com/static/images/As/Assignment2_17731944372970/Dashboard1/1_rss.png'
-        style='border: none' />
+           src='https://public.tableau.com/static/images/As/Assignment2_17731944372970/Dashboard1/1_rss.png'
+           style='border: none' />
     </a>
   </noscript>
   <object class='tableauViz' style='display:none;'>
@@ -26,23 +26,14 @@ markdown: false
     <param name='display_overlay' value='yes' />
     <param name='display_count' value='yes' />
     <param name='language' value='en-US' />
-    <param name='filter' value='publish=yes' />
   </object>
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1773195007348');
+  var divElement = document.getElementById('viz1778266140576');
   var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width = '500px';
-    vizElement.style.height = '547px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width = '500px';
-    vizElement.style.height = '547px';
-  } else {
-    vizElement.style.width = '100%';
-    vizElement.style.height = '977px';
-  }
+  vizElement.style.width = '500px';
+  vizElement.style.height = '547px';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
